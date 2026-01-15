@@ -1,0 +1,94 @@
+.admin_container1 {
+    display: flex;
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    background: #ddd;
+}
+
+.weight_container {
+    margin: 30px auto;
+    margin-bottom: 20px;
+    width: 70%;
+    text-align: center;
+}
+
+.weight-table {
+    background: #ddd;
+    width: 100%;
+}
+
+.weight-table_row {
+    border: none;
+}
+
+.weight-table_header {
+    padding: 10px;
+    width: 20%;
+    font-weight: bold;
+}
+
+.weight-table_item {
+    padding: 12px;
+    width: 20%;
+}
+
+.admin_container2 {
+    display: flex;
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    background: #ddd;
+}
+
+.health-container {
+    margin: 30px auto;
+    width: 70%;
+    background: #ddd;
+    text-align: center;
+}
+
+.health-container_inner {
+    display: flex;
+}
+
+.search_button {
+    padding: 5px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: grey;
+    color: #fff;
+    cursor: pointer;
+}
+
+.add_button {
+    padding: 5px;
+    width: 25%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background: linear-gradient(#cbcff7, #f4d3cf);
+    color: #fff;
+    cursor: pointer;
+}
+
+.health-table {
+    width: 100%;
+}
+
+.health-table_row {
+    border-bottom: 1px solid linear-gradient(#cbcff7, #f4d3cf);
+}
+
+.health-table_header {
+    padding: 12px;
+    width: 20%;
+    font-weight: bold;
+}
+
+.health-table_item {
+    padding: 12px;
+    width: 20%;
+}
