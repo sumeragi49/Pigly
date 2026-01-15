@@ -21,3 +21,5 @@ Laravel環境構築
 使用技術（実行環境）
 ・Conposer version 2.9.3
 ・laravel/laravel(v8.6.12)
+・mysql 8.0.26
+・nginx 1.21.1
